@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tugas_Projek_Pertemaun4_PemrogramanVisual_201401007", "Tugas_Projek_Pertemaun4_PemrogramanVisual_201401007\Tugas_Projek_Pertemaun4_PemrogramanVisual_201401007.csproj", "{66229935-3EF4-4A09-855C-099BAB0D866B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66229935-3EF4-4A09-855C-099BAB0D866B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66229935-3EF4-4A09-855C-099BAB0D866B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66229935-3EF4-4A09-855C-099BAB0D866B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66229935-3EF4-4A09-855C-099BAB0D866B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
